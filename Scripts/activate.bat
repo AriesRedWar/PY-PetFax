@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\philip.DESKTOP-FPDCMF9\Documents\NC-State-Projects\ppp Python\Day 5\PY-PetFax
+set VIRTUAL_ENV=C:\Users\philip.DESKTOP-FPDCMF9\Documents\NC-State-Projects\ppp Python\Day 6\PY-PetFax
 
 if not defined PROMPT set PROMPT=$P$G
 
